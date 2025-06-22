@@ -59,5 +59,5 @@
 
 <h4>Role</h4>
 <ul>
-	<li>Front-end developer</li>
+	<li>Fullstack developer</li>
 </ul>
