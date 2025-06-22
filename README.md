@@ -1,4 +1,4 @@
-<body> <h 1>همّة - Himmah</h1> <p>Himmah is a digital platform that connects skilled tech professionals—such as programmers, UI/UX designers, app developers, and other specialists—with clients looking for high-quality technical services. The app allows freelancers to showcase their services, portfolios, and pricing, while enabling clients to easily browse, review, and hire the right expert for their projects.</p>
+<body> <h1>همّة - Himmah</h1> <p>Himmah is a digital platform that connects skilled tech professionals—such as programmers, UI/UX designers, app developers, and other specialists—with clients looking for high-quality technical services. The app allows freelancers to showcase their services, portfolios, and pricing, while enabling clients to easily browse, review, and hire the right expert for their projects.</p>
 
 <h2>Features</h2>
 <h3>For Sellers</h3>
